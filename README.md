@@ -1,4 +1,4 @@
-## Sales Forecaster
+# Sales Forecaster
 
 ## Overview
 

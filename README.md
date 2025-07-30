@@ -1,0 +1,2 @@
+# Sales Forecasting
+This project is designed to predict weekly sales for retail stores using advanced data processing and machine learning techniques. It starts by loading and merging historical sales data, store information, and external features (such as holidays and markdown events). The code then performs extensive data cleaning and feature engineering—extracting time-based features, encoding categorical variables, handling missing values, and creating lag/moving average sales metrics to capture trends and seasonality.

@@ -6,7 +6,7 @@ This project predicts weekly sales for retail stores using historical sales data
 
 ## Data Source
 
-The dataset used for this project comes from the Walmart Recruiting – Store Sales Forecasting competition hosted on Kaggle. It includes detailed historical sales records across multiple departments and stores, along with features such as markdown events, holiday flags, CPI, temperature, and fuel prices. This rich dataset allows for modeling real-world retail dynamics and improving the accuracy of store-level sales forecasting.
+The dataset used for this project comes from the [Walmart Recruiting – Store Sales Forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting) competition hosted on Kaggle. It includes detailed historical sales records across multiple departments and stores, along with features such as markdown events, holiday flags, CPI, temperature, and fuel prices. This rich dataset allows for modeling real-world retail dynamics and improving the accuracy of store-level sales forecasting.
 
 ## Features
 
